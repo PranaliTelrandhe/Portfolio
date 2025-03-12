@@ -9,7 +9,7 @@
         
         $message.=PHP_EOL.$_POST['msg'];
     
-        $to="Swapniltelrandhe95@gmail.com";
+        $to="Pranalitelrandhe252@gmail.com";
         
         $subject="Enquiry from ".$_POST['name'];
         
